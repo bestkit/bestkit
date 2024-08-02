@@ -1,2 +1,2 @@
 # bestkit
-This project is taken from Pagekit. Since the official update is no longer being developed and shared with you under the name of Bestkit.
+This project is taken from Pagekit. Since the development of the project has been abandoned officially, this is shared with you by fans under the name of Bestkit.
